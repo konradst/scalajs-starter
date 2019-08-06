@@ -1,0 +1,25 @@
+{
+  "name": "scalajs-starter",
+  "version": "1.0.0",
+  "description": "scalajs starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/konradst/scalajs-starter.git"
+  },
+  "keywords": [
+    "scalajs",
+    "starter",
+    "npm",
+    "node"
+  ],
+  "author": "Konrad Stobiecki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/konradst/scalajs-starter/issues"
+  },
+  "homepage": "https://github.com/konradst/scalajs-starter#readme"
+}
