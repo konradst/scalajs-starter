@@ -52,9 +52,9 @@
 For complete changelog go to https://github.com/konradst/scalajs-starter/blob/master/CHANGELOG.md
 
 ## Roadmap
+- Scala.js 1.0.0+
 - module support: ES, TypeScript
 - build to ```build``` folder
 - ```npx``` CLI
-- Scala.js 1.0.0+
 
 For complete roadmap go to https://github.com/konradst/scalajs-starter/blob/master/ROADMAP.md
