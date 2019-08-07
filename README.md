@@ -45,9 +45,8 @@
 - source maps
 - builds to `target/scala-*` folder
 
-## Changes in 1.0.4
-- ultimate roadmap
-- CircleCI
+## Changes in 1.0.5
+- package.json "main"
 
 For complete changelog go to https://github.com/konradst/scalajs-starter/blob/master/CHANGELOG.md
 

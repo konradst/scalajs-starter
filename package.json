@@ -1,8 +1,8 @@
 {
   "name": "scalajs-starter",
-  "version": "1.0.4",
-  "description": "scalajs starter",
-  "main": "index.js",
+  "version": "1.0.5",
+  "description": "ScalaJS Starter",
+  "main": "target/scala-2.12/scala-js-starter-fastopt.js",
   "scripts": {
     "build": "sbt fastOptJS",
     "start": "sbt run",

@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.5
+- package.json "main"
+
 ## 1.0.4
 - ultimate roadmap
 - CircleCI
