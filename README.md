@@ -3,19 +3,16 @@
 [![Scala.js](https://www.scala-js.org/assets/badges/scalajs-0.6.17.svg)](https://www.scala-js.org)
 
 ## Installation
-
 - install sbt with instructions from https://www.scala-sbt.org/1.x/docs/Setup.html
 - ```npm install scalajs-starter```
 
 ## Usage
-
 - build scala to js ```npm run build```
 - build & execute script ```npm start```
 - test ```npm test```
 - clean build folder ```npm run clean```
 
 ## Features
-
 - ScalaJS skeleton (to be used & replaced by CLI)
 - sbt v. 1.2.8
 - scala v. 2.12.8
@@ -24,7 +21,6 @@
 - builds to `target/scala-*` folder
 
 ## Roadmap
-
 - CLI
 - ScalaJS 1.0.0+
 

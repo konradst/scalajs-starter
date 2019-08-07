@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.3
+- badge
+
 ## 1.0.2
 - npm commands: start, test, build, clean
 - instructions
