@@ -1,5 +1,7 @@
 # scalajs-starter
 
+[![Scala.js](https://www.scala-js.org/assets/badges/scalajs-0.6.17.svg)](https://www.scala-js.org)
+
 ## Installation
 
 - install sbt with instructions from https://www.scala-sbt.org/1.x/docs/Setup.html
@@ -24,5 +26,6 @@
 ## Roadmap
 
 - CLI
+- ScalaJS 1.0.0+
 
 See changelog ( https://github.com/konradst/scalajs-starter/blob/master/CHANGELOG.md ) for release info.
