@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.2
+- npm commands: start, test, build, clean
+- instructions
+
 ## 1.0.1
 - build.sbt
 - folder structure

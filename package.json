@@ -1,10 +1,13 @@
 {
   "name": "scalajs-starter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "scalajs starter",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "sbt fastOptJS",
+    "start": "sbt run",
+    "test": "sbt test",
+    "clean": "sbt clean"
   },
   "repository": {
     "type": "git",
