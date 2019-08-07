@@ -1,7 +1,7 @@
 {
   "name": "scalajs-starter",
-  "version": "1.0.5",
-  "description": "ScalaJS Starter",
+  "version": "1.0.6",
+  "description": "Scala.js starter",
   "main": "target/scala-2.12/scala-js-starter-fastopt.js",
   "scripts": {
     "build": "sbt fastOptJS",
@@ -17,7 +17,13 @@
     "scalajs",
     "starter",
     "npm",
-    "node"
+    "node",
+    "boilerplate",
+    "skeleton",
+    "javascript",
+    "typescript",
+    "functional",
+    "immutable"
   ],
   "author": "Konrad Stobiecki",
   "license": "MIT",

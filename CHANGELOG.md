@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.6
+- add test specs
+
 ## 1.0.5
 - package.json "main"
 

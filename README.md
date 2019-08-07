@@ -38,15 +38,14 @@
   ```
 
 ## Features
-- ScalaJS skeleton (to be used & replaced by CLI)
+- Scala.js skeleton (to be used & replaced by CLI)
 - sbt v. 1.2.8
 - scala v. 2.12.8
 - scalajs v. 0.6.28
 - source maps
-- builds to `target/scala-*` folder
 
-## Changes in 1.0.5
-- package.json "main"
+## Changes in 1.0.6
+- add test specs
 
 For complete changelog go to https://github.com/konradst/scalajs-starter/blob/master/CHANGELOG.md
 
@@ -54,6 +53,6 @@ For complete changelog go to https://github.com/konradst/scalajs-starter/blob/ma
 - module support: ES, TypeScript
 - build to ```build``` folder
 - ```npx``` CLI
-- ScalaJS 1.0.0+
+- Scala.js 1.0.0+
 
 For complete roadmap go to https://github.com/konradst/scalajs-starter/blob/master/ROADMAP.md
