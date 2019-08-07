@@ -1,6 +1,6 @@
 # Changelog
 
-## _(WIP)_ 1.0.4
+## 1.0.4
 - ultimate roadmap
 - CircleCI
 
