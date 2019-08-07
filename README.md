@@ -45,7 +45,9 @@
 - source maps
 
 ## Changes in 1.0.6
-- add test specs
+- VanillaJS examples (wip)
+- keywords
+- fix typo in Scala.js
 
 For complete changelog go to https://github.com/konradst/scalajs-starter/blob/master/CHANGELOG.md
 

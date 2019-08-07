@@ -1,7 +1,9 @@
 # Changelog
 
 ## 1.0.6
-- add test specs
+- VanillaJS examples (wip)
+- keywords
+- fix typo in Scala.js
 
 ## 1.0.5
 - package.json "main"
