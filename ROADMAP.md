@@ -1,5 +1,4 @@
 # Roadmap
-- CI
 - module support: ES, TypeScript
 - build to ```build``` folder
 - ```npx``` CLI

@@ -2,6 +2,7 @@
 
 ## _(WIP)_ 1.0.4
 - ultimate roadmap
+- CircleCI
 
 ## 1.0.3
 - badge
