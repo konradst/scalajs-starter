@@ -19,6 +19,7 @@
 - scala v. 2.12.8
 - scalajs v. 0.6.28
 - source maps
+- builds to `target/scala-*` folder
 
 ## Roadmap
 
