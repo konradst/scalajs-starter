@@ -1,7 +1,7 @@
 # Changelog
 
 ## 1.0.6
-- VanillaJS examples (wip)
+- VanillaJS examples
 - keywords
 - fix typo in Scala.js
 

@@ -7,7 +7,9 @@
     "build": "sbt fastOptJS",
     "start": "sbt run",
     "test": "sbt test",
-    "clean": "sbt clean"
+    "clean": "sbt clean",
+    "example-es6-module": "node --experimental-modules examples/es6-module/index.mjs",
+    "example-vanillajs": "node examples/vanillajs/index.js"
   },
   "repository": {
     "type": "git",

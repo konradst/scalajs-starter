@@ -36,6 +36,10 @@
   ```
   npm run clean
   ```
+- run VanillaJS example
+  ```
+  npm run example-vanillajs
+  ```
 
 ## Features
 - Scala.js skeleton (to be used & replaced by CLI)
@@ -45,7 +49,7 @@
 - source maps
 
 ## Changes in 1.0.6
-- VanillaJS examples (wip)
+- VanillaJS examples
 - keywords
 - fix typo in Scala.js
 
