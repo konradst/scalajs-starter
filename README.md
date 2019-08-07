@@ -10,7 +10,7 @@
 - build scala to js ```npm run build```
 - build & execute script ```npm start```
 - test ```npm test```
-- clean build folder ```npm clean```
+- clean build folder ```npm run clean```
 
 ## Features
 
