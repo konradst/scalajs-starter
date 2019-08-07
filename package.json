@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/konradst/scalajs-starter/issues"
   },
-  "homepage": "https://github.com/konradst/scalajs-starter#readme"
+  "homepage": "https://github.com/konradst/scalajs-starter#readme",
+  "dependencies": {
+    "source-map-support": "^0.5.13"
+  }
 }

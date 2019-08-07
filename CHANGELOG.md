@@ -7,6 +7,7 @@
 - scala v. 2.12.8
 - scalajs v. 0.6.28
 - changelog :)
+- source-map-support 
 
 ## 1.0.0
 - initial version

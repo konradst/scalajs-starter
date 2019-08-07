@@ -1,1 +1,4 @@
-.article
+node_modules
+project/target
+project/project
+target
