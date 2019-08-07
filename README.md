@@ -7,10 +7,22 @@
 - ```npm install scalajs-starter```
 
 ## Usage
-- build scala to js ```npm run build```
-- build & execute script ```npm start```
-- test ```npm test```
-- clean build folder ```npm run clean```
+- build Scala to JavaScript
+  ```
+  npm run build
+  ```
+- build & execute script
+  ```
+  npm start
+  ```
+- test
+  ```
+  npm test
+  ```
+- clean build folder
+  ```
+  npm run clean
+  ```
 
 ## Features
 - ScalaJS skeleton (to be used & replaced by CLI)
@@ -20,8 +32,16 @@
 - source maps
 - builds to `target/scala-*` folder
 
+## Changes in 1.0.4
+- ultimate roadmap
+
+For complete changelog go to https://github.com/konradst/scalajs-starter/blob/master/CHANGELOG.md
+
 ## Roadmap
-- CLI
+- CI
+- module support: ES, TypeScript
+- build to ```build``` folder
+- ```npx``` CLI
 - ScalaJS 1.0.0+
 
-See changelog ( https://github.com/konradst/scalajs-starter/blob/master/CHANGELOG.md ) for release info.
+For complete roadmap go to https://github.com/konradst/scalajs-starter/blob/master/ROADMAP.md

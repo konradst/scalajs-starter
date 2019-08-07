@@ -1,6 +1,6 @@
 {
   "name": "scalajs-starter",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "scalajs starter",
   "main": "index.js",
   "scripts": {
