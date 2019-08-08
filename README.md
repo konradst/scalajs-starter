@@ -48,10 +48,8 @@
 - scalajs v. 0.6.28
 - source maps
 
-## Changes in 1.0.6
-- VanillaJS examples
-- keywords
-- fix typo in Scala.js
+## 1.0.7
+- Scala.js 1.0.0-M8
 
 For complete changelog go to https://github.com/konradst/scalajs-starter/blob/master/CHANGELOG.md
 

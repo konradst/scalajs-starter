@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.7
+- Scala.js 1.0.0-M8
+
 ## 1.0.6
 - VanillaJS examples
 - keywords

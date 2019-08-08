@@ -11,6 +11,3 @@ http://webcache.googleusercontent.com/search?q=cache:https://www.scala-js.org/do
 
 ## JavaScript modules
 http://webcache.googleusercontent.com/search?q=cache:https://www.scala-js.org/doc/project/module.html
-
-## 0.6.x - 1.0.0 migration
-@ScalaJSDefined is deprecated: add `-P:scalajs:sjsDefinedByDefault` to your scalac options and remove @ScalaJSDefined from code

@@ -1,19 +1,17 @@
-eval(require('fs').readFileSync('target/scala-2.12/scala-js-starter-fastopt.js', 'utf8'));
+const vm = require("vm");
+const fs = require("fs");
+const runner = (path, context) => {
+    context = context || {};
+    const data = fs.readFileSync(path);
+    vm.runInNewContext(data, context, path);
+    return context;
+}
 
-// Scala object
 try {
+    const { Starter } = runner('target/scala-2.12/scala-js-starter-fastopt.js', { globalThis, Starter: {} });
     console.log('Starter', Starter);
     console.log('Starter.someval', Starter.someval);
     console.log('Starter.greet(\'Human\')', Starter.greet('Human'));
 } catch (e) {
-    console.log('Starter error', e);
-}
-
-// Scala class
-try {
-    console.log('StarterClass', StarterClass);
-    console.log('StarterClass().someval', StarterClass().someval);
-    console.log('StarterClass().greet(\'Human\')', StarterClass().greet('Human'));    
-} catch (e) {
-    console.log('StarterClass error', e);
+    console.log('runner error', e);
 }
