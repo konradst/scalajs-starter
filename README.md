@@ -44,19 +44,20 @@
 ## Features
 - Scala.js skeleton (to be used & replaced by CLI)
 - sbt v. 1.2.8
-- scala v. 2.12.8
-- scalajs v. 0.6.28
+- Scala v. 2.12.8
+- Scala.js v. 0.6.28 (git tag 1.0.6)
+- Scala.js v. 1.0.0-M8
 - source maps
 
-## 1.0.7
-- Scala.js 1.0.0-M8
+## 1.0.8
+- update readme and roadmap
 
 For complete changelog go to https://github.com/konradst/scalajs-starter/blob/master/CHANGELOG.md
 
 ## Roadmap
-- Scala.js 1.0.0+
-- module support: ES, TypeScript
-- build to ```build``` folder
+- module support: ES, CommonJS
+- interactive build
 - ```npx``` CLI
+- add another VanillaJS example (alternative without assigning to globalThis)
 
 For complete roadmap go to https://github.com/konradst/scalajs-starter/blob/master/ROADMAP.md

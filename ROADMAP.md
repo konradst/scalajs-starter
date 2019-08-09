@@ -1,9 +1,10 @@
 # Roadmap
-- module support: ES, TypeScript
-- build to ```build``` folder
+- module support: ES, CommonJS
+- module support: TypeScript
+- interactive build
 - ```npx``` CLI
-- Scala.js 1.0.0+
 - add tests
+- add another VanillaJS example (alternative without assigning to globalThis)
 - (dream) auto typings
 - (dream) install sbt
 - (ultimate dream) map types & interfaces for TypeScript
