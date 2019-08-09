@@ -7,8 +7,9 @@ import js.annotation.{ JSExportAll, JSGlobalScope }
 @JSGlobalScope
 object Globals extends js.Object {
   var globalThis: js.Dynamic = js.native
-  // var StarterClassInstance: StarterClass = js.native
-  var Starter: StarterObject = js.native
+  // uncomment and npm run example-vanillajs for fun
+  // var StarterClassInstance: StarterClass = js.native 
+  // var Starter: StarterObject = js.native
 }
 
 sealed trait StarterObject
@@ -23,8 +24,12 @@ object Starter extends StarterObject {
 
   def main(args: Array[String]): Unit = {
     Globals.globalThis.console.log("Hello from Scala.js starter object!")
-    Globals.Starter = this;
-    // Globals.StarterClassInstance = new StarterClass();
+    
+    
+    Globals.globalThis.Starter = this.asInstanceOf[js.Any];
+    // uncomment and npm run example-vanillajs for fun
+    // Globals.Starter = this
+    // Globals.StarterClassInstance = new StarterClass()
   }
 }
 
