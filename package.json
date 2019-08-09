@@ -1,6 +1,6 @@
 {
   "name": "scalajs-starter",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Scala.js starter",
   "main": "target/scala-2.12/scala-js-starter-fastopt.js",
   "scripts": {

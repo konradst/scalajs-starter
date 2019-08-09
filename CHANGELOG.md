@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.9
+- fix: use js.Dynamic.global.global instead of reassigning globalThis to custom context (affects VanillaJS examples)
+
 ## 1.0.8
 - update readme and roadmap
 

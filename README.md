@@ -49,8 +49,8 @@
 - Scala.js v. 1.0.0-M8
 - source maps
 
-## 1.0.8
-- update readme and roadmap
+## 1.0.9
+- fix: use js.Dynamic.global.global instead of reassigning globalThis to custom context (affects VanillaJS examples)
 
 For complete changelog go to https://github.com/konradst/scalajs-starter/blob/master/CHANGELOG.md
 
